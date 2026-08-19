@@ -1,5 +1,5 @@
 <details open>
-<summary><h2>English</h2></summary>
+<summary><h2>🇬🇧 English</h2></summary>
 
 # GrovLock
 
@@ -8,6 +8,8 @@ GrovLock is a hybrid cryptographic scheme designed to protect telematic communic
 Authors: Alegre Castilla, Sthefany Alexandra; Espino Veas, Karla Daniela; Panclas Aliaga, Maria Claudia; Pareja Abarca, Maria Julia. Universidad Catolica de Santa Maria (UCSM), 2026.
 
 Current status: in active improvement. The team is working on optimizing and correcting the implementation, including the diffusion layer fix described below.
+
+Paper (draft / preprint): [GrovLock_EN_draft.pdf](./paper/GrovLock_EN_draft.pdf)
 
 ## About the diffusion layer
 
@@ -44,7 +46,7 @@ If you find something to fix or want to propose an improvement, open an Issue or
 </details>
 
 <details>
-<summary><h2>Espanol</h2></summary>
+<summary><h2>🇪🇸 Español</h2></summary>
 
 # GrovLock
 
@@ -53,6 +55,8 @@ GrovLock es un esquema criptografico hibrido disenado para proteger comunicacion
 Autoras: Alegre Castilla, Sthefany Alexandra; Espino Veas, Karla Daniela; Panclas Aliaga, Maria Claudia; Pareja Abarca, Maria Julia. Universidad Catolica de Santa Maria (UCSM), 2026.
 
 Estado actual: en mejora activa. El equipo esta trabajando en optimizar y corregir la implementacion, incluyendo la correccion de la capa de difusion detallada abajo.
+
+Paper (borrador / preprint): [GrovLock_ES_borrador.pdf](./paper/GrovLock_ES_borrador.pdf)
 
 ## Sobre la capa de difusion
 
