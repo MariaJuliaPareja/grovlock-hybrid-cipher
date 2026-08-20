@@ -9,7 +9,7 @@ Authors: Alegre Castilla, Sthefany Alexandra; Espino Veas, Karla Daniela; Pancla
 
 Current status: in active improvement. The team is working on optimizing and correcting the implementation, including the diffusion layer fix described below.
 
-Paper (draft / preprint): [GrovLock_EN_draft.pdf](./paper/GrovLock_EN_draft.pdf)
+Paper (draft / preprint): [GrovLock_EN_draft.pdf](./GrovLock_EN_draft.pdf)
 
 ## About the diffusion layer
 
@@ -56,7 +56,7 @@ Autoras: Alegre Castilla, Sthefany Alexandra; Espino Veas, Karla Daniela; Pancla
 
 Estado actual: en mejora activa. El equipo esta trabajando en optimizar y corregir la implementacion, incluyendo la correccion de la capa de difusion detallada abajo.
 
-Paper (borrador / preprint): [GrovLock_ES_borrador.pdf](./paper/GrovLock_ES_borrador.pdf)
+Paper (borrador / preprint): [GrovLock_ES_borrador.pdf](./GrovLock_ES_borrador.pdf)
 
 ## Sobre la capa de difusion
 
